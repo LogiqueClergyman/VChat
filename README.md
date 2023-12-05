@@ -26,7 +26,7 @@ Make sure to have an **Android Emulator** installed for this to work properly.
 Clone the project  
 
 ~~~bash  
-  git clone https://github.com/LogiqueClergyman/VChat
+  git clone https://github.com/LogiqueClergyman/VChat.git
 ~~~
 
 Go to the project directory  
